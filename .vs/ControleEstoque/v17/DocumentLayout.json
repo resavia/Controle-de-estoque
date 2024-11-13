@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\local-repo\\controle-estoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\models\\domain\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\models\\domain\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|f:\\local-repo\\controle-estoque\\controleestoque.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\home\\sobre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\models\\binders\\entradasaidaprodutoviewmodelmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\models\\binders\\entradasaidaprodutoviewmodelmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\operinventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\operinventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93FAA11-31F0-4629-B53C-AA8680283529}|Rotativa\\Rotativa.csproj|F:\\local-repo\\controle-estoque\\rotativa\\extensions\\controllercontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93FAA11-31F0-4629-B53C-AA8680283529}|Rotativa\\Rotativa.csproj|solutionrelative:rotativa\\extensions\\controllercontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\shared\\_cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\shared\\_cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\relatorio\\filtrorelatressuprimentoview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\relatorio\\filtrorelatressuprimentoview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\opersaidaproduto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\opersaidaproduto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\operlancamentoperdaproduto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\operlancamentoperdaproduto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\rotativa\\wkhtmltopdf.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 ! )$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\rotativa\\wkhtmltopdf.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 ! )$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\rotativa\\wkhtmltopdf.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\rotativa\\wkhtmltopdf.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\cadlocalarmazenamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\cadlocalarmazenamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D93FAA11-31F0-4629-B53C-AA8680283529}|Rotativa\\Rotativa.csproj|F:\\local-repo\\controle-estoque\\rotativa\\viewaspdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93FAA11-31F0-4629-B53C-AA8680283529}|Rotativa\\Rotativa.csproj|solutionrelative:rotativa\\viewaspdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\controllers\\operacao\\operlancamentoperdaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\controllers\\operacao\\operlancamentoperdaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\controllers\\operacao\\opersaidaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\controllers\\operacao\\opersaidaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\controllers\\operacao\\operentradasaidaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\controllers\\operacao\\operentradasaidaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\controllers\\relatorio\\relatposicaoestoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\controllers\\relatorio\\relatposicaoestoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\relatorio\\relatposicaoestoqueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\relatorio\\relatposicaoestoqueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\scripts\\cadastro\\produto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\scripts\\cadastro\\produto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\views\\operentradaproduto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\views\\operentradaproduto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\controllers\\operacao\\operentradaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\controllers\\operacao\\operentradaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|F:\\local-repo\\controle-estoque\\controleestoque.web\\models\\domain\\entradaprodutomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B95227-5341-47B8-A2CF-473DCFC21E73}|ControleEstoque.Web\\ControleEstoque.Web.csproj|solutionrelative:controleestoque.web\\models\\domain\\entradaprodutomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:55:19.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Content\\Site.css",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Content\\Site.css",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Content\\Site.css",
+              "RelativeToolTip": "ControleEstoque.Web\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T22:54:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\StringExtensions.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\StringExtensions.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:54:29.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperInventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\OperInventario\\Index.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperInventario\\Index.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\OperInventario\\Index.cshtml",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:50:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sobre.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Home\\Sobre.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Home\\Sobre.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Home\\Sobre.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Home\\Sobre.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:50:47.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControllerContextExtensions.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\Rotativa\\Extensions\\ControllerContextExtensions.cs",
+              "RelativeDocumentMoniker": "Rotativa\\Extensions\\ControllerContextExtensions.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\Rotativa\\Extensions\\ControllerContextExtensions.cs",
+              "RelativeToolTip": "Rotativa\\Extensions\\ControllerContextExtensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:50:40.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:50:06.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FiltroRelatRessuprimentoView.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Relatorio\\FiltroRelatRessuprimentoView.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Relatorio\\FiltroRelatRessuprimentoView.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Relatorio\\FiltroRelatRessuprimentoView.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Relatorio\\FiltroRelatRessuprimentoView.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:49:54.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperSaidaProduto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\OperSaidaProduto\\Index.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperSaidaProduto\\Index.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\OperSaidaProduto\\Index.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:49:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperLancamentoPerdaProduto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\OperLancamentoPerdaProduto\\Index.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperLancamentoPerdaProduto\\Index.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\OperLancamentoPerdaProduto\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:49:34.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Scripts\\bootstrap.js",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Scripts\\bootstrap.js",
+              "RelativeToolTip": "ControleEstoque.Web\\Scripts\\bootstrap.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-07T22:49:30.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wkhtmltopdf.exe - 1 - RCDATA",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe - 1 - RCDATA",
+              "RelativeToolTip": "ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe - 1 - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-07T22:49:23.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "wkhtmltopdf.exe",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe",
+              "RelativeToolTip": "ControleEstoque.Web\\Rotativa\\wkhtmltopdf.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-07T22:49:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:43:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Cadastro.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Shared\\_Cadastro.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Shared\\_Cadastro.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Shared\\_Cadastro.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Shared\\_Cadastro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:43:35.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\CadLocalArmazenamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\CadLocalArmazenamento\\Index.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\CadLocalArmazenamento\\Index.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\CadLocalArmazenamento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T22:43:22.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewAsPdf.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\Rotativa\\ViewAsPdf.cs",
+              "RelativeDocumentMoniker": "Rotativa\\ViewAsPdf.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\Rotativa\\ViewAsPdf.cs",
+              "RelativeToolTip": "Rotativa\\ViewAsPdf.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:42:57.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OperLancamentoPerdaProdutoController.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperLancamentoPerdaProdutoController.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Controllers\\Operacao\\OperLancamentoPerdaProdutoController.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperLancamentoPerdaProdutoController.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Controllers\\Operacao\\OperLancamentoPerdaProdutoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:07:39.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OperSaidaProdutoController.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperSaidaProdutoController.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Controllers\\Operacao\\OperSaidaProdutoController.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperSaidaProdutoController.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Controllers\\Operacao\\OperSaidaProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:07:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntradaSaidaProdutoViewModelModelBinder.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Models\\Binders\\EntradaSaidaProdutoViewModelModelBinder.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Models\\Binders\\EntradaSaidaProdutoViewModelModelBinder.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Models\\Binders\\EntradaSaidaProdutoViewModelModelBinder.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Models\\Binders\\EntradaSaidaProdutoViewModelModelBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:07:22.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Produto.js",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Scripts\\Cadastro\\Produto.js",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Scripts\\Cadastro\\Produto.js",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Scripts\\Cadastro\\Produto.js",
+              "RelativeToolTip": "ControleEstoque.Web\\Scripts\\Cadastro\\Produto.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T20:14:09.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RelatPosicaoEstoqueView.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Relatorio\\RelatPosicaoEstoqueView.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\Relatorio\\RelatPosicaoEstoqueView.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\Relatorio\\RelatPosicaoEstoqueView.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\Relatorio\\RelatPosicaoEstoqueView.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T20:09:33.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RelatPosicaoEstoqueController.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Relatorio\\RelatPosicaoEstoqueController.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Controllers\\Relatorio\\RelatPosicaoEstoqueController.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Relatorio\\RelatPosicaoEstoqueController.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Controllers\\Relatorio\\RelatPosicaoEstoqueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:08:51.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OperEntradaSaidaProdutoController.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaSaidaProdutoController.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaSaidaProdutoController.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaSaidaProdutoController.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaSaidaProdutoController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:37:32.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OperEntradaProdutoController.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaProdutoController.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaProdutoController.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaProdutoController.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Controllers\\Operacao\\OperEntradaProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:37:07.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EntradaProdutoModel.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Models\\Domain\\EntradaProdutoModel.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Models\\Domain\\EntradaProdutoModel.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Models\\Domain\\EntradaProdutoModel.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Models\\Domain\\EntradaProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:37:02.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperEntradaProduto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Views\\OperEntradaProduto\\Index.cshtml",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Views\\OperEntradaProduto\\Index.cshtml",
+              "RelativeToolTip": "ControleEstoque.Web\\Views\\OperEntradaProduto\\Index.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T18:47:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Models\\Domain\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Web\\Models\\Domain\\ProdutoModel.cs",
+              "ToolTip": "F:\\local-repo\\controle-estoque\\ControleEstoque.Web\\Models\\Domain\\ProdutoModel.cs",
+              "RelativeToolTip": "ControleEstoque.Web\\Models\\Domain\\ProdutoModel.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAswKcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:37:44.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
